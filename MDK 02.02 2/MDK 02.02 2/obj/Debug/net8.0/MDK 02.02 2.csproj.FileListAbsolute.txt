@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\bin\Debug\net8.0\MDK 02.02 2.exe
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\bin\Debug\net8.0\MDK 02.02 2.deps.json
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\bin\Debug\net8.0\MDK 02.02 2.runtimeconfig.json
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\bin\Debug\net8.0\MDK 02.02 2.dll
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\bin\Debug\net8.0\MDK 02.02 2.pdb
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\MDK 02.02 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\MDK 02.02 2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\MDK 02.02 2.AssemblyInfo.cs
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\MDK 02.02 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\MDK 02.02 2.dll
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\refint\MDK 02.02 2.dll
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\MDK 02.02 2.pdb
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\MDK 02.02 2.genruntimeconfig.cache
+C:\Users\User\source\repos\MDK 02.02 2\MDK 02.02 2\obj\Debug\net8.0\ref\MDK 02.02 2.dll
